@@ -1,0 +1,54 @@
+[
+{
+"photo": "/assets/img/ecommerce.png",
+"title": "DESIGN PORTFOLIO",
+"categories": [
+"HTML",
+"CSS"
+]
+},
+{
+"photo": "https://picsum.photos/540/400",
+"title": "E-LEARNING LANDING PAGE",
+"categories": [
+"HTML",
+"CSS"
+]
+},
+{
+"photo": "https://picsum.photos/540/400",
+"title": "TODO WEB APP",
+"categories": [
+"HTML",
+"CSS",
+"JAVASCRIPT"
+]
+},
+{
+"photo": "https://picsum.photos/540/400",
+"title": "ENTERTAINMENT WEB APP",
+"categories": [
+"HTML",
+"CSS",
+"JAVASCRIPT"
+]
+},
+{
+"photo": "https://picsum.photos/540/400",
+"title": "MEMORY GAME",
+"categories": [
+"HTML",
+"CSS",
+"JAVASCRIPT"
+]
+},
+{
+"photo": "https://picsum.photos/540/400",
+"title": "ART GALLERY SHOWCASE",
+"categories": [
+"HTML",
+"CSS",
+"JAVASCRIPT"
+]
+}
+]
